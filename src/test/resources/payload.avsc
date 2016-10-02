@@ -1,0 +1,16 @@
+{
+    "namespace": "com.vipul",
+     "type": "record",
+     "name": "payload",
+     "fields":[
+         {
+            "name": "name", "type": "string"
+         },
+         {
+            "name": "id",  "type": ["int", "null"]
+         },
+         {
+            "name": "desc", "type": ["string", "null"]
+         }
+     ]
+}
