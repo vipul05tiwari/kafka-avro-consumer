@@ -1,6 +1,6 @@
 /*******************************************************************************************************
  * 
- * Copyright (C) TrendSutra Platform Services Private Limited,
+ * Copyright (C) Vipul Tiwari,
  * All Rights Reserved Unauthorized copying of this file, 
  * via any medium is strictly prohibited Proprietary and confidential.
  * 
@@ -9,7 +9,7 @@
 package com.kac;
 
 /**
- * TODO : insert comment here
+ * Kafka message consumer.
  * 
  * @author vipul
  * @date 02-Oct-2016

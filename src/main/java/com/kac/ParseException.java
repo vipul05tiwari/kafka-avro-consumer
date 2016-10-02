@@ -1,6 +1,6 @@
 /*******************************************************************************************************
  * 
- * Copyright (C) TrendSutra Platform Services Private Limited,
+ * Copyright (C) Vipul Tiwari,
  * All Rights Reserved Unauthorized copying of this file, 
  * via any medium is strictly prohibited Proprietary and confidential.
  * 
@@ -11,7 +11,6 @@ package com.kac;
 import java.io.IOException;
 
 /**
-* TODO : insert comment here
 * 
 * @author vipul
 * @date 02-Oct-2016

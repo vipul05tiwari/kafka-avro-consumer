@@ -1,6 +1,6 @@
 /*******************************************************************************************************
  * 
- * Copyright (C) TrendSutra Platform Services Private Limited,
+ * Copyright (C) Vipul Tiwari,
  * All Rights Reserved Unauthorized copying of this file, 
  * via any medium is strictly prohibited Proprietary and confidential.
  * 
@@ -33,7 +33,7 @@ import org.apache.kafka.clients.producer.ProducerRecord;
 
 
 public class ProducerTest {
-
+	
     public void producer(Schema schema) throws IOException {
 
         Properties props = new Properties();

@@ -1,6 +1,6 @@
 /*******************************************************************************************************
  * 
- * Copyright (C) TrendSutra Platform Services Private Limited,
+ * Copyright (C) Vipul Tiwari,
  * All Rights Reserved Unauthorized copying of this file, 
  * via any medium is strictly prohibited Proprietary and confidential.
  * 
@@ -17,7 +17,7 @@ import org.apache.commons.lang3.exception.ExceptionUtils;
 import org.apache.log4j.Logger;
 
 /**
-* TODO : insert comment here
+* {@link ApplicationLauncher} is main class used to launch application.
 * 
 * @author vipul
 * @date 02-Oct-2016

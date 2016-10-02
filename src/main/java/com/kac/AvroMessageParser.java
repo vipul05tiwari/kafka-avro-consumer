@@ -1,6 +1,6 @@
 /*******************************************************************************************************
  * 
- * Copyright (C) TrendSutra Platform Services Private Limited,
+ * Copyright (C) Vipul Tiwari,
  * All Rights Reserved Unauthorized copying of this file, 
  * via any medium is strictly prohibited Proprietary and confidential.
  * 
@@ -19,7 +19,7 @@ import org.apache.avro.io.DecoderFactory;
 import org.json.JSONObject;
 
 /**
-* TODO : insert comment here
+* {@link AvroMessageParser} is implementation of {@link MessageParser} which will use to parse AVRO message parse.
 * 
 * @author vipul
 * @date 02-Oct-2016
