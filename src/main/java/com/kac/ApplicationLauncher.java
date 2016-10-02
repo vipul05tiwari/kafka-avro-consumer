@@ -30,7 +30,7 @@ public class ApplicationLauncher
 	
 	public static void main(String[] args)  
 	{
-		String topic = "test";
+		String topic = args[0];
 		
 		try 
 		{
